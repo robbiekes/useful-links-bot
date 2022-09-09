@@ -1,0 +1,5 @@
+user: "mgwyness"
+host: "localhost"
+port: "5432"
+dbname: "links"
+sslmode: "disable"
